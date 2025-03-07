@@ -1,0 +1,6 @@
+Patient ID,Name,Age,Gender,Diagnosis,Treatment,Admission Date,Discharge Date
+101,John Doe,45,Male,Hypertension,Medication,2024-03-15,2024-03-20
+102,Jane Smith,35,Female,Diabetes,Insulin,2024-03-10,2024-03-18
+103,Mike Johnson,50,Male,Asthma,Inhaler,2024-03-12,2024-03-17
+104,Lisa Davis,28,Female,Migraine,Painkillers,2024-03-18,2024-03-22
+105,Mark Taylor,60,Male,Arthritis,Physiotherapy,2024-03-14,2024-03-25
